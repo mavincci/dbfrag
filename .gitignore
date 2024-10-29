@@ -56,3 +56,6 @@ third_party/*
 *.run
 *.layout
 *.session
+
+#
+/cmake-build-debug/
